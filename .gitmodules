@@ -1,0 +1,3 @@
+[submodule "graph-signals"]
+	path = graph-signals
+	url = https://github.com/mdbartos/graph-signals.git
